@@ -13,3 +13,6 @@ Sistema para farmacia (utilizando listas encadeadas e ponteiros):
 - Cadastro, listagem e exclusão de clientes;
 - Busca de medicamento e clientes;
 - Fazer cliente comprar remedio (cada cliente pode comprar até 10 remédios).
+
+
+Exercícios de listas desenvolvidos nas disciplinas de Algoritmos e Estrutura de Dados 
