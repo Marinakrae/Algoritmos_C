@@ -2,7 +2,7 @@
 Algoritmos em C desenvolvidos durante meu curso de Sistemas para Internet
 
 
-Exercícios de listas desenvolvidos nas disciplinas de Algoritmos e Estrutura de Dados;
+- Exercícios de listas desenvolvidos nas disciplinas de Algoritmos e Estrutura de Dados;
 
 Sistema para o curso de Sistemas para Internet:
 - Cadastro, listagem e exclusão de alunos;
